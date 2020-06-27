@@ -1,0 +1,25 @@
+.main
+{
+        width:200px;
+        border:2px solid #CCCCCC;
+        margin:0 auto;
+        background-color: aqua;
+}
+.result{
+width: 70%;
+background-color: #CCCCCC;
+color: #eeeeee; 
+}
+.clearBtn{
+    background-color: #CCCCCC;
+    width: 45px;
+    margin-top: 5px;
+}
+.btn{
+    background-color: #CCCCCC;
+    width: 45px;
+    margin-top: 5px;
+    margin-right: 1px;
+    height: 25px;
+    
+}
